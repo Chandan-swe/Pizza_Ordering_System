@@ -1,0 +1,8 @@
+1.Arabian Pizza
+2.Beef Pizza
+3.Chiken Pizza
+4.Extra Chesse Pizza
+5.Maxicun Pizza
+6.Masrum Pizza
+7.Masrum with Chiken Pizza
+8.Vegetable Pizza 
